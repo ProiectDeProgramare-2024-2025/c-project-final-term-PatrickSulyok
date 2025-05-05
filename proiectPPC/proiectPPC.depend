@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742238033 source:c:\users\p4t44\onedrive\desktop\proiectppc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
